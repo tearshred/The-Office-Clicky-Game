@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/The-Office-Clicky-Game/static/css/main.752e36e4.chunk.css",
+    "main.js": "/The-Office-Clicky-Game/static/js/main.0f55a23b.chunk.js",
+    "main.js.map": "/The-Office-Clicky-Game/static/js/main.0f55a23b.chunk.js.map",
+    "runtime~main.js": "/The-Office-Clicky-Game/static/js/runtime~main.55ddcec4.js",
+    "runtime~main.js.map": "/The-Office-Clicky-Game/static/js/runtime~main.55ddcec4.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/The-Office-Clicky-Game/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/The-Office-Clicky-Game/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/The-Office-Clicky-Game/index.html",
+    "precache-manifest.2d4fbe98b1876210fd91e7b03f10be0c.js": "/The-Office-Clicky-Game/precache-manifest.2d4fbe98b1876210fd91e7b03f10be0c.js",
+    "service-worker.js": "/The-Office-Clicky-Game/service-worker.js",
+    "static/css/main.752e36e4.chunk.css.map": "/The-Office-Clicky-Game/static/css/main.752e36e4.chunk.css.map",
+    "static/media/angela.jpg": "/The-Office-Clicky-Game/static/media/angela.74dda9c2.jpg",
+    "static/media/creed.jpg": "/The-Office-Clicky-Game/static/media/creed.c624fbc5.jpg",
+    "static/media/dwight.jpg": "/The-Office-Clicky-Game/static/media/dwight.2dee332b.jpg",
+    "static/media/kevin.jpg": "/The-Office-Clicky-Game/static/media/kevin.ff1e8d37.jpg",
+    "static/media/meredith.jpg": "/The-Office-Clicky-Game/static/media/meredith.4e44720b.jpg",
+    "static/media/michael.jpg": "/The-Office-Clicky-Game/static/media/michael.b00879fc.jpg",
+    "static/media/oscar.jpg": "/The-Office-Clicky-Game/static/media/oscar.ba23bcd8.jpg",
+    "static/media/pam.jpg": "/The-Office-Clicky-Game/static/media/pam.b1850744.jpg",
+    "static/media/phyllis.jpg": "/The-Office-Clicky-Game/static/media/phyllis.d3847157.jpg",
+    "static/media/stanley.jpg": "/The-Office-Clicky-Game/static/media/stanley.43e1e037.jpg",
+    "static/media/toby.jpg": "/The-Office-Clicky-Game/static/media/toby.49d49952.jpg"
+  }
+}
